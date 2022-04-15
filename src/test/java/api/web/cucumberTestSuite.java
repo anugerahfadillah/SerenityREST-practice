@@ -1,4 +1,4 @@
-package api.starter;
+package api.web;
 
 
 import io.cucumber.junit.CucumberOptions;
@@ -10,4 +10,4 @@ import org.junit.runner.RunWith;
         plugin = {"pretty"},
         features = "classpath:features"
 )
-public class CucumberTestSuite {}
+public class cucumberTestSuite {}

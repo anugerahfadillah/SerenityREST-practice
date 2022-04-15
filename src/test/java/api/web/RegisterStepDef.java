@@ -1,4 +1,4 @@
-package api.starter.postcodes.web;
+package api.web;
 
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
